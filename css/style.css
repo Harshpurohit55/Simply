@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   
+}
+
+.mainheader
+{
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    height: 100px;
+}
+
+.fo{
+    font-size: 47px;
+    color: black;
+    font-weight: bolder;
+    /* text-align: right; */
+    /* margin-right: 30px; */
+    margin-left: 112px;
+   
+}
+
+.div1{
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    background-color: white;
+    height: auto;
+
+}
+
+ul{
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    color: black;
+    margin-left: 754px;
+    margin-top: -49px;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.img1{
+    position: relative;
+    opacity: 0.8;
+}
+
+.div2{
+    position: absolute;
+    margin-top: -339px;
+    margin-left: 459px;
+}
+
+.bo{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 46px;
+}
+
+.bo1{
+    font-size: 57px;
+    font-family: none;
+    font-weight: 200;
+    text-transform: uppercase;
+    /* margin-right: -26px; */
+    margin-left: -144px;
+}
+
+
+.or{
+    background-color: gray;
+    /* padding: 20px; */
+    margin: 20px;
+    margin-left: 117px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: inherit;
+    padding-right: 40px;
+    padding-top: 11px;
+    padding-bottom: 12px;
+    padding-left: 40px;
+}
+
+.div3{
+    clear: both;
+    display: flex;
+    margin-top: 46px;
+    margin-left: 132px;
+}
+
+.img2{
+    height: 40px;
+    width: 40px;
+    margin-left: 84px;
+}
+
+.indiv1{
+    width: 30%;
+    
+}
+
+.indiv2{
+    width: 30%;
+}
+
+.img3{
+    height: 40px;
+    width: 40px;
+    margin-left: 84px;
+}
+
+.indiv3{
+    width: 30%;
+}
+
+.img4{
+    margin-left: 84px;
+    height: 40px;
+    width: 40px;
+}
+
+.ha1{
+    margin-left: 17px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.ha2{
+    margin-left: 17px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+}
+
+.ha3{
+    margin-left: 17px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+}
+
+.div4{
+    clear: both;
+    text-align: center;
+    margin-top: 101px;
+}
+
+.p2{
+    text-align: center;
+    margin: 36px;
+    margin-left: 55px;
+}
+
+.ha4{
+   text-transform: uppercase;
+   text-decoration: underline;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.div5{
+    margin-left: 376px;
+    margin-top: 61px;
+}
+
+.div6{
+    display: flex;
+}
+
+.ha5{
+    text-transform: uppercase;
+    margin-left: 13px;
+
+}
+
+.p3{
+    margin-left: 13px;
+}
+
+.img5{
+    float: left;
+    width: 350px;
+    height: auto;
+}
+
+.indiv4{
+    float: right;
+
+}
+
+.div6{
+    display: flex;
+   width: 50%;
+}
+
+.div7{
+   
+    display: flex;
+    width: 50%;
+}
+
+.btn2{
+    background-color: aqua;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.maindiv{
+    
+    display: flexbox;
+    margin-left: 138px;
+    margin-top: 74px;
+
+}
+
+.img6{
+    width: 350px;
+    
+}
+
+.div8{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ha9{
+    text-transform: uppercase;
+    margin-right: 100px;
+}
+
+.btn3{
+    background-color: white;
+    border-color: aqua;
+    color: aqua;
+    margin: 20px;
+    padding: 20px;
+    margin-right: 145px
+}
+
+.flxdiv1{
+    margin-right: 74px;
+    text-align: center;
+    
+    
+
+}
+
+.flxdiv2{
+    display: inline-block;
+    justify-content: end;
+    margin-right: 74px;
+    text-align: center;
+}
+
+.flxdiv3{
+    display: inline-block;
+    margin-right: 74px;
+    text-align: center;
+    
+}
+
+.indiv9{
+    float: left;
+}
+
+.div10{
+    float: right;
+    display: flex;
+    padding: 26px;
+
+}
+
+.ha6
+{
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.p1{
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
